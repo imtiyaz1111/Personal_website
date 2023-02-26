@@ -1,0 +1,18 @@
+.nav-link {
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+  }
+  .nav-a{
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .nav-a:hover{
+    color: rgb(77, 175, 255);
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  .navspan{
+    color: rgb(77, 175, 255);
+  }

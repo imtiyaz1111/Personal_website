@@ -1,0 +1,29 @@
+/* footer */
+.footer {
+    background-color: rgb(0 10 45);
+  }
+  .footerbox {
+    margin-top: 50px;
+    color: white;
+  }
+  .footerlink li {
+    list-style: none;
+  }
+  .footerlink li a {
+    text-decoration: none;
+  }
+  
+  .footerser li {
+    list-style: none;
+  }
+  .footerser li a {
+    text-decoration: none;
+  }
+  .fotersocialicon {
+    height: 50px;
+    margin: 5px;
+    color: rgb(77, 175, 255);
+  }
+  .fotersocialicon:hover {
+    color: white;
+  }

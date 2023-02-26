@@ -1,0 +1,96 @@
+/* home */
+.follw {
+    font-family: "La Belle Aurore", cursive;
+    color:rgb(53, 160, 248);
+  }
+  .followicon {
+    height: 30px;
+    margin: 5px;
+    color: white;
+  }
+  .followicon:hover {
+    color: rgb(53, 160, 248);
+  }
+  .home {
+    background-color: hsl(219deg 48% 8%);
+  }
+  .home-deail {
+    height: 100%;
+    width: 100%;
+  }
+  .main {
+    justify-content: center;
+  }
+  .home-deail h1 {
+    font-size: 70px;
+    color: white;
+    font-family: "La Belle Aurore", cursive;
+  }
+  .home-deail h2 {
+    color: rgb(53, 160, 248);
+    font-family: "La Belle Aurore", cursive;
+  }
+  .home-deail p {
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+  }
+  .hero-btn button {
+    background-color: rgb(53, 160, 248);
+    font-size: 20px;
+    font-family: "La Belle Aurore", cursive;
+    font-weight: 500;
+    color: white;
+    border-radius: 20px;
+  }
+  .hero-btn button:hover {
+    border: 2px solid rgb(53, 160, 248);
+    color: rgb(53, 160, 248);
+  }
+  .homeimg {
+  }
+  .homeimg img {
+    height: 80%;
+    width: 80%;
+  }
+  .main {
+    margin-top: 100px;
+  }
+  .homespan{
+    color:rgb(53, 160, 248) ;
+  }
+  @media ( max-width: 990px){
+   .homeimg img{
+    margin-top: 10px;
+    padding-top: 30px;
+    border: 5px solid rgb(53, 160, 248);
+    border-top-right-radius: 150px;
+    border-bottom-left-radius: 60px;
+   }
+  }
+  @media ( max-width: 580px){
+    .homeimg img{
+     padding-top: 30px;
+     width: 400px;
+    }
+   }
+   @media ( max-width: 460px){
+
+    .homeimg img{
+     margin-top: 30px;
+     width: 300px;
+     margin-right: 20px;
+    }
+   }
+   @media ( max-width: 280px){
+    .homeimg img{
+     padding-top: 30px;
+     width: 200px;
+    }
+    h2{
+      font-size: 20px;
+    }
+   }
+         
+      
+  

@@ -1,0 +1,50 @@
+/* service */
+.sericon {
+    height: 50px;
+    color: rgb(77, 175, 255);
+  }
+  hr.serhar {
+    height: 5px;
+    width: 250px;
+    background-color: rgb(77, 175, 255);
+    border: none;
+  }
+  .service {
+    background-color: hsl(219deg 48% 8%);
+  }
+  .servspan{
+    color: rgb(77, 175, 255);
+  }
+  .ser-box {
+    border: 2px solid rgb(77, 175, 255);
+    border-radius: 5px;
+    padding: 3.4rem 3.4rem;
+    transition: all 0.2s linear;
+    box-shadow: #8484a5;
+  }
+  .ser-box:hover {
+    transform: translateY(-2rem);
+  }
+  .ser-box h3 {
+    font-family: "La Belle Aurore", cursive;
+  }
+  .serpage{
+    padding-top: 100px;
+    padding-bottom: 30px;
+    background-color: rgb(0 10 45);
+   }
+   .serhead{
+    color:rgb(53, 160, 248) ;
+   }
+   .serpagebtn button{
+    background-color: rgb(53, 160, 248);
+    font-size: 20px;
+    font-family: "La Belle Aurore", cursive;
+    font-weight: 500;
+    color: white;
+    border-radius: 20px;
+   }
+   .serpagebtn button:hover{
+    border: 2px solid rgb(53, 160, 248);
+    color: rgb(53, 160, 248);
+   }
